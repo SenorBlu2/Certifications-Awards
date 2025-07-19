@@ -1,6 +1,8 @@
 # Certifications:
+
 # Google Cybersecurity Professional:
 https://www.coursera.org/professional-certificates/google-cybersecurity
+
 ## Skills Gained:
 
 ## Certificate:
