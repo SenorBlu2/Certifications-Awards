@@ -26,3 +26,12 @@ https://tryhackme.com/path/outline/soclevel1
 ## Certificate:
 ![THM-DB7SNG0BT6](https://github.com/user-attachments/assets/b96eefff-1fbd-40a9-8f5c-dc4be0b1ab84)
 Verification: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DB7SNG0BT6.pdf
+
+# Awards:
+# Griffith Academic Excellence 2023:
+![GriffithAwardforAcademicExcellence-2023_Badge20250630-27-u2l2ed](https://github.com/user-attachments/assets/5510bb78-6944-43d4-9120-058edfe861c6)
+Verification: https://www.credly.com/go/A81O7jZk
+
+# Griffith Academic Excellence 2024:
+![GriffithAwardforAcademicExcellence-2024_Badge20250630-25-qoufmd](https://github.com/user-attachments/assets/88d7bcc6-4607-4229-a5da-5e604f20d780)
+Verification: https://www.credly.com/go/9ByhX1q8
